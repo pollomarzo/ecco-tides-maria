@@ -1,5 +1,5 @@
 ---
-title: Observing ECCO Model vs Tide Gauges Affected by Hurricane Maria 🧙
+title: Observing ECCO Model vs Tide Gauges Affected by Hurricane Maria
 subject: Article
 authors:
   - name: Franck Porteous
