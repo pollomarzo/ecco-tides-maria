@@ -1,3 +1,8 @@
+version: 1
+extends:
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus-paper-config/main/paper-base.yml
+
 project:
   authors:
   - name: Franck Porteous
@@ -5,9 +10,9 @@ project:
   - name: Faith Hunja
     orcid: 0000-0001-5747-0247
   id: observing-ecco-model-vs-tide-gauges-affected-by-hurricane-maria
-  main: CISP2024-ECCO-TideGauges-HurricaneMaria-manuscript.md
   title: Observing ECCO Model vs Tide Gauges Affected by Hurricane Maria
   github: https://github.com/pollomarzo/ecco-tides-maria
-site:
-  template: article-theme
-version: 1
+
+  downloads:
+  - file: assets/CISP2024-ECCO-TideGauges-HurricaneMaria-source-code.zip
+    title: Code
