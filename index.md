@@ -33,15 +33,13 @@ Our preliminary analysis investigated how the resolution and reliability of SSH 
 
 By looking at one of the most powerful hurricanes ever recorded, the robustness of each data network can be utilized with more precise placement and value for future modelers and local climate and ocean scientists.
 
-:::{note} Poetic Summary
-:class: dropdown
-
+:::{dropdown} Poetic Summary
 
   In the tempest of climate’s exchange, \
   Hurricane surges pose challenges, strange.  \
   As the storms dance with glee,  \
   Rising tides taunt the sea,  \
-  Measuring their might, in flux, a range.  \
+  Measuring their might, in flux, a range.  
 
   For sea heights, a system profound,  \
   Needs remote and in-situ, all around.  \
@@ -95,7 +93,7 @@ By looking at one of the most powerful hurricanes ever recorded, the robustness 
   ECCO and tidal gauges unite.  \
   In climate’s crystal ball,  \
   And hurricane’s squall,  \
-  Prediction’s key for the future’s insight."
+  Prediction’s key for the future’s insight.
 :::
 
 # Description
