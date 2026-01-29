@@ -18,3 +18,7 @@ project:
   downloads:
   - file: assets/CISP2024-ECCO-TideGauges-HurricaneMaria-source-code.zip
     title: Code
+  keywords:
+    - ECCO
+    - Tide Gauges
+    - Hurricane Maria

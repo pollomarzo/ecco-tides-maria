@@ -8,10 +8,6 @@ abbreviations:
     GLOSS: Global Sea Level Observing System
     MDSL: Mean Dynamic Sea Level
 abstract: ""
-keywords:
-  - ECCO
-  - Tide Gauges
-  - Hurricane Maria
 ---
 
 # Seminar presentation
